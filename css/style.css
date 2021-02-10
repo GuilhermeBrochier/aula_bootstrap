@@ -1,0 +1,21 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: #48C9B0 ;
+}
+.ahri{
+    background-color: blue;
+    color:aliceblue;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.kaisa{
+    background-color:  darkred;
+}
+.bg-footer{
+    background-color: black;
+    color: aliceblue;
+}
